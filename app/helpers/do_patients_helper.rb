@@ -1,0 +1,2 @@
+module DoPatientsHelper
+end
